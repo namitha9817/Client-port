@@ -3051,9 +3051,10 @@ border:none;
 	.my-skill-back {
 	  min-height: 27px;
 	}
+	
 	.edu-info h3 {
-	  font-size: 28px;
-		letter-spacing: 11px;
+	    font-size: 20px;
+	    letter-spacing: 11px;
 	}
 	.edu-grid {
 	  float: left;
